@@ -22,8 +22,3 @@ Digite a palavra que você deseja entre aspas e digite . (ponto) no final:
 `Digite uma palavra para tentar: "teste".`
 
 O jogador terá 6 tentativas para acertar a palavra!
-
-
-## Política de Colaboração
-A aplicação foi desenvolvida através de pair-programming onde a dupla se reunia e codificava junta,
-além de contanto assíncrono constante por aplicativo de mensagens.
